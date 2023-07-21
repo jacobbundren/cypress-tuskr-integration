@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test:e2e": "cypress open",
+    "test:e2e-headless": "cypress run"
+  },
+  "dependencies": {
+    "cypress": "^12.17.1"
+  }
+}
